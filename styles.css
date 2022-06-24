@@ -18,7 +18,7 @@ body {
   one beside the other equally.   */
 
   display:flex;
-  justify-content: space-evenly;
+
   flex-wrap: wrap;
 }
 
